@@ -13,4 +13,4 @@ Technologies I have experienced:
 - 3rd Party Integration: Payment Gateway, Email Campaign and More
 - Others: Code Test(Unit Test, E2E Test) & Review, Clean & Quality Code, Problem Solving, Robust System Architecture, Project Management
 
-I love Learning New Technology, Helping others, Personal Development, Cooking. :)
+**I love Learning New Technology, Helping others, Personal Development, Cooking. :)**
