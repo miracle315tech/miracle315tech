@@ -7,7 +7,7 @@ Technologies I have experienced:
 - Backend: Spring, Nest, Laravel, Django, Flask, Fast API, Ruby on Rails, Fiber
 - Frontend: React, Vue, Angular, Svelt, Next.js, Gatsby
 - Database: MySQL, PostgreSQL, MongoDB, CouchDB, DynamoDB, CosmosDB, Redis
-- CMS/Ecommerce: Wordpress, Shopify, Magento
+- CMS/Ecommerce: Hubspot, Webflow, Squarespace, Wordpress, Shopify, Magento
 - Cloud: AWS, Azure, GCP
 - Tools: Jenkins, Docker, Kubernetes, Git, CI/CD Pipeline, Agile Development
 - 3rd Party Integration: Payment Gateway, Email Campaign and More
